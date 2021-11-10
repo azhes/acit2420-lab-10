@@ -1,0 +1,7 @@
+[Unit]
+Description=Weather Daemon
+
+[Service]
+ExecStart=/usr/sbin/weather-daemon
+
+[Install]
