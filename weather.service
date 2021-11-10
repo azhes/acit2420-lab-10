@@ -5,3 +5,4 @@ Description=Weather Daemon
 ExecStart=/usr/sbin/weather-daemon
 
 [Install]
+WantedBy=graphical.target
