@@ -2,7 +2,7 @@
 Description=Weather Daemon
 
 [Service]
-ExecStart=/usr/sbin/weather-daemon
+ExecStart=/usr/sbin/weather
 
 [Install]
 WantedBy=graphical.target

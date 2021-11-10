@@ -1,4 +1,4 @@
 #!/bin/bash
 
-curl wttr.in > wttr
+curl wttr.in > /home/vagrant/Documents/wttr
 
